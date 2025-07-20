@@ -10,11 +10,6 @@
     "link": "https://1.qhdaohang.cn/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://www.qhdaohang.cn/#term-54-58"
-  },
-  {
     "icon": "Compass",
     "name": "影视",
     "link": "https://www.qhdaohang.cn/favorites/%e5%9c%a8%e7%ba%bf%e5%bd%b1%e8%a7%86/"
@@ -22,7 +17,12 @@
   {
     "icon": "Book",
     "name": "软件宝库",
-    "link": "https://www.qhdaohang.cn/%e8%bd%af%e4%bb%b6%e5%ae%9d%e5%ba%93-%e8%bd%af%e4%bb%b6%e5%85%8d%e8%b4%b9%e4%b8%8b%e8%bd%bdcadpsprofficeaiaevisioproject3dmaxaulrc/"
+    "link": "https://www.qhdaohang.cn/rj"
+  },
+  {
+    "icon": "Book",
+    "name": "工具宝库",
+    "link": "https://qhdaohang.cn/gj/"
   },
   {
     "icon": "Fire",
@@ -30,8 +30,8 @@
     "link": "https://www.qhdaohang.cn/favorites/%e7%bd%91%e7%9b%98%e4%b8%8b%e8%bd%bd/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://www.qhdaohang.cn/favorites/%e7%bd%91%e7%9b%98%e4%b8%8b%e8%bd%bd/"
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://www.qhdaohang.cn/#term-54-58"
   }
 ]
