@@ -7,12 +7,12 @@
   {
     "icon": "Cloud",
     "name": "发布页",
-    "link": "https://1.qhdaohang.cn/"
+    "link": "https://xn--fet750e3yf5yw.cn/"
   },
   {
-    "icon": "Compass",
+    "icon": "Fire",
     "name": "影视",
-    "link": "https://www.qhdaohang.cn/favorites/%e5%9c%a8%e7%ba%bf%e5%bd%b1%e8%a7%86/"
+    "link": "https://www.qhdaohang.cn/%e5%bd%b1%e9%9f%b3%e5%a8%b1%e4%b9%90%e5%af%bc%e8%88%aa/"
   },
   {
     "icon": "Book",
@@ -25,13 +25,8 @@
     "link": "https://qhdaohang.cn/gj/"
   },
   {
-    "icon": "Fire",
-    "name": "4k影视下载",
-    "link": "https://www.qhdaohang.cn/favorites/%e7%bd%91%e7%9b%98%e4%b8%8b%e8%bd%bd/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://www.qhdaohang.cn/#term-54-58"
+    "icon": "Compass",
+    "name": "TG频道",
+    "link": "https://t.me/TGAXT"
   }
 ]
